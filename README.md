@@ -7,8 +7,8 @@ code is a mess, but I still run it every year to make new predictions.
 
 ### Usage
 
-$ python parse_season.py
-usage: python parse_season.py cbbgaXX.txt compareXX.txt RANK
+    $ python parse_season.py
+    usage: python parse_season.py cbbgaXX.txt compareXX.txt RANK
 
 ### Prediction example
 
