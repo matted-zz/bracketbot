@@ -1,0 +1,1029 @@
+11/09/2009 Alcorn St.              60 Ohio St.               100
+11/09/2009 Florida International   72 North Carolina          88
+11/09/2009 Albany                  43 Syracuse                75
+11/09/2009 Murray St.              70 California              75
+11/11/2009 Robert Morris           60 Syracuse               100
+11/11/2009 North Carolina Central  42 North Carolina          89
+11/11/2009 Detroit                 61 California              95
+11/12/2009 James Madison           44 Ohio St.                72
+11/12/2009 Georgia St.             53 North Carolina St.      69
+11/13/2009 Western St.             54 Air Force               65    
+11/13/2009 Morgan St.              69 Albany                  65    
+11/13/2009 NC Wilmington           68 Appalachian St.         79    
+11/13/2009 Western Illinois        35 Arizona St.             87    
+11/13/2009 Alcorn St.              68 Arkansas               130    
+11/13/2009 Niagara                 65 Auburn                  69    
+11/13/2009 Valparaiso              78 Ball St.                88    
+11/13/2009 Norfolk St.             58 Baylor                  86    
+11/13/2009 Portland St.            67 Belmont                 74 N   Seattle, WA
+11/13/2009 Loyola Marymount        87 Boise St.               90 N   Missoula, MT
+11/13/2009 Dartmouth               58 Boston College          89    
+11/13/2009 Bradley                 60 Brigham Young           70    
+11/13/2009 Santa Clara             84 Cal St. Bakersfield     81    
+11/13/2009 Colorado St.            91 UC Davis                73 N   Eugene, OR
+11/13/2009 St. Andrews Presbyteri  52 Campbell                76    
+11/13/2009 Hendrix                 40 Central Arkansas        68    
+11/13/2009 NC Asheville            70 Charlotte               86    
+11/13/2009 Virginia Intermont      62 Chattanooga            107    
+11/13/2009 Concordia IL            61 Chicago St.             81    
+11/13/2009 Kenyon                  45 The Citadel             64    
+11/13/2009 Presbyterian            41 Clemson                 84    
+11/13/2009 College of Charleston   59 Coastal Carolina        70    
+11/13/2009 Arkansas Pine Bluff     72 Colorado                88    
+11/13/2009 William & Mary          66 Connecticut             75    
+11/13/2009 Lincoln                 69 Coppin St.              76
+11/13/2009 Northern Iowa           71 Denver                  65    
+11/13/2009 NC Greensboro           62 Duke                    96    
+11/13/2009 Nicholls St.            62 Duquesne                85    
+11/13/2009 Virginia Wise           60 East Carolina           77    
+11/13/2009 Central Connecticut     58 Fairfield               67    
+11/13/2009 Florida Tech            63 Florida Atlantic        86    
+11/13/2009 Maine                   76 Fordham                 73    
+11/13/2009 San Francisco St.       59 Fresno St.              65    
+11/13/2009 Lees McRae              49 Furman                  88    
+11/13/2009 Liberty                 72 George Mason            76    
+11/13/2009 New Orleans             59 Georgia                 67    
+11/13/2009 Reinhardt               59 Georgia Southern       108    
+11/13/2009 Southern Utah           48 Hawaii                  65    
+11/13/2009 Harvard                 87 Holy Cross              77    
+11/13/2009 South Alabama           76 Houston Baptist         64    
+11/13/2009 SIU Edwardsville        69 Illinois                96    
+11/13/2009 Howard                  60 Indiana                 83    
+11/13/2009 Nebraska Kearney        58 Indiana St.             88    
+11/13/2009 Boston University       73 Iona                    82    
+11/13/2009 Idaho St.               68 Iowa St.                88    
+11/13/2009 Hofstra                 65 Kansas                 101    
+11/13/2009 Loyola Chicago          54 Kansas St.              92    
+11/13/2009 North Greenville        79 Kennesaw St.            89    
+11/13/2009 Samford                 66 Kent St.                69    
+11/13/2009 Morehead St.            59 Kentucky                75    
+11/13/2009 Wagner                  72 Lafayette               81    
+11/13/2009 Huston Tillotson        57 Lamar                   80    
+11/13/2009 Vermont                 66 Loyola MD               79    
+11/13/2009 Louisiana Monroe        62 Louisiana St.           82    
+11/13/2009 Centenary               62 Marquette               85    
+11/13/2009 Charleston Southern     51 Maryland                89    
+11/13/2009 Stony Brook             75 Maryland Eastern Shore  57    
+11/13/2009 Jackson St.             53 Memphis                 82    
+11/13/2009 Bucknell                80 Mercer                  89 N   Providence, RI
+11/13/2009 Florida Gulf Coast      58 Michigan St.            97    
+11/13/2009 King                    73 Middle Tennessee        93
+11/13/2009 Concordia St. Paul      73 Wisconsin Milwaukee     89
+11/13/2009 Tennessee Tech          50 Minnesota               87    
+11/13/2009 Arkansas Little Rock    64 Mississippi             92    
+11/13/2009 Rider                   88 Mississippi St.         74    
+11/13/2009 Florida International   70 Monmouth                99    
+11/13/2009 North Dakota            37 Montana                 61    
+11/13/2009 Brevard College         63 North Carolina A&T      92    
+11/13/2009 Cameron                 62 North Texas             80    
+11/13/2009 Southwestern AZ         61 Northern Arizona       113    
+11/13/2009 McNeese St.             73 Northern Colorado      101 N   Honolulu, HI
+11/13/2009 Northern Illinois       55 Northwestern            77    
+11/13/2009 East Texas Baptist      54 Northwestern St.        77    
+11/13/2009 Ohio Valley             72 Ohio                   101    
+11/13/2009 Winston Salem St.       43 Oregon                  94    
+11/13/2009 Texas A&M Corpus Chris  67 Oregon St.              43 N   Lubbock, TX
+11/13/2009 Pennsylvania            55 Penn St.                70    
+11/13/2009 Pacific                 67 Pepperdine              64 2  
+11/13/2009 Wofford                 60 Pittsburgh              63    
+11/13/2009 Bryant                  53 Providence              96    
+11/13/2009 Cal St. Northridge      64 Purdue                  89    
+11/13/2009 Hartford                74 Quinnipiac              85
+11/13/2009 Navy                    65 Radford                 76    
+11/13/2009 Sacramento St.          51 Rice                    81    
+11/13/2009 Lehigh                  53 Richmond                65    
+11/13/2009 Yale                    86 Sacred Heart            92
+11/13/2009 New Mexico St.          68 St. Mary's             100    
+11/13/2009 Stanford                64 San Diego               77    
+11/13/2009 Cal Poly                62 San Francisco           73    
+11/13/2009 Webber                  51 Savannah St.            65    
+11/13/2009 St. Peter's             51 Seton Hall              53    
+11/13/2009 Alabama A&M             50 South Carolina          88    
+11/13/2009 Erskine                 53 South Carolina St.      56    
+11/13/2009 Science and Arts OK     50 Southeastern Louisiana  99    
+11/13/2009 South Florida           67 Southern Methodist      61    
+11/13/2009 Cleveland St.           62 St. Bonaventure         72    
+11/13/2009 Brown                   68 St. Francis NY          64    
+11/13/2009 American                61 St. Francis PA          65    
+11/13/2009 Long Island             70 St. John's              83    
+11/13/2009 Drexel                  67 Saint Joseph's          77 1  
+11/13/2009 Averett                 65 Stetson                 70    
+11/13/2009 Mid America Christian   69 Texas Christian         74    
+11/13/2009 Austin Peay             54 Tennessee               83    
+11/13/2009 Siena                   85 Tennessee St.           69    
+11/13/2009 Angelo St.              69 Texas A&M               88    
+11/13/2009 Howard Payne            67 Texas St.              102    
+11/13/2009 South Dakota            49 Texas Tech              88    
+11/13/2009 Miami OH                71 Towson                  82    
+11/13/2009 Georgetown              74 Tulane                  58    
+11/13/2009 St. Mary's TX           47 Tulsa                   72    
+11/13/2009 Wisconsin Green Bay     56 UAB                     68 N   Kent, OH
+11/13/2009 La Verne                54 UC Irvine               82    
+11/13/2009 Massachusetts           67 Central Florida         84    
+11/13/2009 Idaho                   94 Utah                    87    
+11/13/2009 North Dakota St.        72 Utah Valley             80    
+11/13/2009 Texas Southern          70 Texas El Paso           89    
+11/13/2009 Fairleigh Dickinson     61 Villanova               84    
+11/13/2009 Longwood                72 Virginia                85    
+11/13/2009 Bethune Cookman         51 Virginia Commonwealth   77    
+11/13/2009 Army                    86 Virginia Military Inst  93    
+11/13/2009 Oral Roberts            56 Wake Forest             76    
+11/13/2009 Wright St.              69 Washington              74    
+11/13/2009 Mississippi Valley St.  66 Washington St.          94    
+11/13/2009 Utah St.                66 Weber St.               60    
+11/13/2009 South Dakota St.        77 Wyoming                 61    
+11/13/2009 Youngstown St.          57 Xavier                  83    
+11/14/2009 Cornell                 71 Alabama                 67    
+11/14/2009 Bloomsburg              49 Binghamton              54    
+11/14/2009 Wayne St. MI            45 Bowling Green           67    
+11/14/2009 Davidson                62 Butler                  73    
+11/14/2009 Hope International      57 Cal St. Fullerton       93    
+11/14/2009 Princeton               71 Central Michigan        68    
+11/14/2009 Winston Salem St.       40 Colorado St.            57 N   Eugene, OR
+11/14/2009 Creighton               80 Dayton                  90    
+11/14/2009 Temple                  76 Delaware                56    
+11/14/2009 Holy Family             57 Delaware St.            67    
+11/14/2009 IUPUI                   88 Drake                   82    
+11/14/2009 Appalachian St.         58 East Tennessee St.      62    
+11/14/2009 West Virginia Wesleyan  71 Eastern Kentucky       102    
+11/14/2009 Portland                64 Eastern Washington      58    
+11/14/2009 Oakland City            66 Evansville              92    
+11/14/2009 Covenant                48 Gardner Webb            89    
+11/14/2009 Florida A&M             59 Georgia Tech           100    
+11/14/2009 Mississippi Valley St.  74 Gonzaga                 92    
+11/14/2009 North Carolina Pembroke 72 High Point             104    
+11/14/2009 Sacramento St.          70 Houston Baptist         60    
+11/14/2009 West Alabama            64 Jacksonville St.        93    
+11/14/2009 North Georgia           65 Kennesaw St.            78    
+11/14/2009 UAB                     65 Kent St.                72    
+11/14/2009 Hampton                 80 La Salle                83    
+11/14/2009 Southern Virginia       53 Liberty                 89    
+11/14/2009 Elon                    91 Lipscomb                86    
+11/14/2009 Alaska Anchorage        65 Long Beach St.          86    
+11/14/2009 Southern Mississippi    79 Louisiana Lafayette     72    
+11/14/2009 NJ Inst of Technology   58 Manhattan               70    
+11/14/2009 North Carolina Central  53 Miami FL                83    
+11/14/2009 Northern Michigan       50 Michigan                97    
+11/14/2009 Boise St.               82 Montana                 95    
+11/14/2009 Missouri St. Louis      54 Murray St.              92    
+11/14/2009 South Carolina Upstate  49 Nebraska                76    
+11/14/2009 Montana St.             61 Nevada                  75    
+11/14/2009 Suffolk                 45 New Hampshire           91    
+11/14/2009 UC Riverside            51 New Mexico              67    
+11/14/2009 North Florida           65 Notre Dame              86    
+11/14/2009 Eastern Michigan        81 Oakland                 77    
+11/14/2009 Mount St. Mary's        71 Oklahoma                95    
+11/14/2009 Seattle                 64 Oklahoma St.            86    
+11/14/2009 UC Davis                64 Oregon                  95    
+11/14/2009 South Dakota            47 Oregon St.              62 N   Lubbock, TX
+11/14/2009 Wright St.              75 Portland St.            70 N   Seattle, WA
+11/14/2009 Schreiner               47 Prairie View A&M        91    
+11/14/2009 Bucknell                65 Providence              76    
+11/14/2009 South Alabama           69 Rice                    71    
+11/14/2009 Marist                  67 Rutgers                 74    
+11/14/2009 Southeast Missouri St.  41 St. Louis               59    
+11/14/2009 LeTourneau              42 Sam Houston St.         73    
+11/14/2009 Wisconsin Green Bay     70 Samford                 68 N   Kent, OH
+11/14/2009 Tennessee Martin        63 Southern Illinois       91    
+11/14/2009 Texas A&M Corpus Chris  59 Texas Tech              66    
+11/14/2009 Dallas Baptist          84 Texas Arlington         88    
+11/14/2009 Louisiana Tech          80 Texas Pan American      62    
+11/14/2009 Eastern Illinois        72 Toledo                  62    
+11/14/2009 Piedmont                50 Troy                   106    
+11/14/2009 Cal St. Los Angeles     57 UC Santa Barbara        85    
+11/14/2009 Illinois Springfield    59 Illinois Chicago        72    
+11/14/2009 Truman St.              33 Missouri Kansas City    80    
+11/14/2009 Pittsburg St.           52 Nevada Las Vegas        91    
+11/14/2009 Belmont                 78 Washington              96    
+11/14/2009 St. Catharine           41 Western Carolina        65    
+11/14/2009 Limestone               55 Winthrop                57    
+11/14/2009 West Virginia Tech      52 Coppin St.              63
+11/14/2009 North Dakota            60 Loyola Marymount        83 N   Missoula, MT
+11/14/2009 Mercer                  80 Bryant                  56 n   Providence, RI
+11/14/2009 UC San Diego            52 San Diego St.           77
+11/15/2009 Bethune Cookman         38 Old Dominion            69    
+11/15/2009 Sacramento St.          58 South Alabama           70 N   Houston, TX
+11/15/2009 South Dakota            76 Texas A&M Corpus Chris  73 N   Lubbock, TX
+11/15/2009 UC Irvine               42 Texas                   89    
+11/15/2009 North Carolina A&T      63 Marshall                79    
+11/15/2009 Samford                 52 UAB                     55 N   Kent, OH
+11/15/2009 William & Mary          85 Harvard                 87 3  
+11/15/2009 Austin Peay             80 Akron                   77    
+11/15/2009 Mercer                  77 Providence              79    
+11/15/2009 Hartford                69 Baylor                  71    
+11/15/2009 Florida International   49 Tulsa                   81    
+11/15/2009 Boise St.               75 North Dakota            60 N   Missoula, MT
+11/15/2009 Arkansas Pine Bluff     56 Denver                  75    
+11/15/2009 Alcorn St.              66 Louisiana Monroe        82    
+11/15/2009 Western Michigan        80 Detroit                 86    
+11/15/2009 Illinois St.            82 SIU Edwardsville        60    
+11/15/2009 Morgan St.              72 MD Baltimore County     57    
+11/15/2009 Valparaiso              77 North Carolina          88    
+11/15/2009 Middle Tennessee        68 Ohio                    81    
+11/15/2009 Loyola MD               60 West Virginia           83    
+11/15/2009 Dartmouth               44 George Mason            60    
+11/15/2009 Seton Hall              87 Monmouth                72    
+11/15/2009 Lafayette               70 Sacred Heart            81    
+11/15/2009 Navy                    79 Longwood                76    
+11/15/2009 Stetson                 46 Florida                 74    
+11/15/2009 Western Illinois        50 Kansas St.              82    
+11/15/2009 Wisconsin Green Bay     87 Kent St.                86 1  
+11/15/2009 Brown                   55 Virginia Tech           69    
+11/15/2009 Oregon St.              60 Texas Tech              64    
+11/15/2009 Fairleigh Dickinson     64 Wichita St.             80    
+11/15/2009 Hiram                   41 Youngstown St.          81    
+11/15/2009 George Washington       76 NC Wilmington           71    
+11/15/2009 Houston Baptist         46 Rice                    60    
+11/15/2009 Northern Arizona        70 Arizona                 87    
+11/15/2009 Loyola Marymount        63 Montana                 64    
+11/15/2009 Vermont                 58 Buffalo                 57    
+11/15/2009 IUPU Fort Wayne         46 Wisconsin               75    
+11/15/2009 Texas San Antonio       62 Iowa                    50    
+11/15/2009 Colorado St.            55 Oregon                  68    
+11/15/2009 Idaho                   65 Texas Southern          72    
+11/15/2009 Fordham                 55 Fairfield               63    
+11/15/2009 Chicago St.             50 Iowa St.                72    
+11/15/2009 Idaho St.               69 Bradley                 74    
+11/15/2009 Wright St.              82 Belmont                 73 N   Seattle, WA
+11/15/2009 Portland St.            55 Washington             111    
+11/15/2009 Cal Poly                53 Stanford                70    
+11/15/2009 McNeese St.             65 Hawaii                  73    
+11/15/2009 Bucknell                59 Bryant                  56 n   Providence, RI
+11/15/2009 Wake Forest             89 East Carolina           58 N   Greensboro, NC
+11/15/2009 UC Davis                99 Winston Salem St.       79 N   Eugene, OR
+11/15/2009 Southern Utah           51 Northern Colorado       73 N   Honolulu, HI
+11/16/2009 Wilmington OH           74 Cleveland St.           99    
+11/16/2009 Wisconsin Milwaukee     65 Western Kentucky        69 N   Baton Rouge, LA
+11/16/2009 Yale                    63 Hofstra                 68 N   Storrs, CT
+11/16/2009 Coastal Carolina        49 Duke                    74    
+11/16/2009 Virginia Military Inst  59 Richmond               103    
+11/16/2009 Central Connecticut     45 Savannah St.            53    
+11/16/2009 Mount Saint Mary        53 Stony Brook             87    
+11/16/2009 Brescia                 51 Morehead St.            86    
+11/16/2009 Lehigh                  71 Rider                   86    
+11/16/2009 Georgia Southern        66 South Carolina          90    
+11/16/2009 Jacksonville            61 Florida St.             87    
+11/16/2009 Maine                   71 Norfolk St.             72    
+11/16/2009 Pennsylvania            65 Villanova              103    
+11/16/2009 Miami OH                70 Kentucky                72    
+11/16/2009 Montreat                62 Gardner Webb            89    
+11/16/2009 Ferris St.              69 Central Michigan        82    
+11/16/2009 Nova Southeastern       58 Miami FL               108    
+11/16/2009 Prairie View A&M        62 Cincinnati              69    
+11/16/2009 Virginia                49 South Florida           66    
+11/16/2009 Albany                  51 American                50    
+11/16/2009 Wilmington DE           44 Delaware St.            60    
+11/16/2009 Robert Morris           61 Penn St.                80    
+11/16/2009 St. Francis PA          72 Notre Dame              95    
+11/16/2009 Alabama St.             53 Mississippi             90    
+11/16/2009 William Carey           88 Troy                   104    
+11/16/2009 Mayville St.            56 South Dakota St.        89    
+11/16/2009 Indiana St.             45 Louisiana St.           56    
+11/16/2009 Texas A&M               80 Southern Methodist      68    
+11/16/2009 Southern                45 Baylor                  61    
+11/16/2009 Florida Atlantic        77 Southeastern Louisiana  90    
+11/16/2009 Stephen F. Austin       42 Minnesota               82    
+11/16/2009 Texas College           54 Sam Houston St.         91    
+11/16/2009 Lipscomb                73 Vanderbilt              95    
+11/16/2009 Tennessee Tech          71 Central Arkansas        67    
+11/16/2009 Texas Pan American      72 Lamar                   77    
+11/16/2009 Auburn                  62 Missouri St.            73    
+11/16/2009 NW Oklahoma St.         50 Oral Roberts            86    
+11/16/2009 Louisiana College       68 Louisiana Lafayette     90    
+11/16/2009 Cal St. Northridge      65 Texas Christian         83 N   Tempe, AZ
+11/16/2009 Oakwood                 81 Alabama A&M             86    
+11/16/2009 South Carolina Upstate  61 Indiana                 69    
+11/16/2009 Coppin St.              58 Colorado                82    
+11/16/2009 Colgate                 63 Connecticut             77    
+11/16/2009 Elon                    61 Charlotte               75 N   Durham, NC
+11/16/2009 Eastern Washington      61 Washington St.          67    
+11/16/2009 Menlo                   55 Santa Clara             79    
+11/16/2009 San Diego               55 Pacific                 56    
+11/16/2009 William Jessup          63 San Jose St.            89    
+11/16/2009 Texas St.               62 Arizona St.             84    
+11/16/2009 Cal St. Fullerton       68 UCLA                    65 2  
+11/16/2009 San Diego St.           58 St. Mary's              80    
+11/16/2009 Northern Colorado       81 Hawaii                  75    
+11/16/2009 Saint Joseph's NY       54 NJ Inst of Technology   96
+11/16/2009 MacMurray               47 Arkansas St.            93
+11/16/2009 Dominican CA            66 San Francisco           92
+11/16/2009 McNeese St.             59 Southern Utah           68 N   Honolulu, HI
+11/17/2009 Monmouth                34 St. Peter's             58    
+11/17/2009 Drexel                  69 Niagara                 76    
+11/17/2009 Clemson                 79 Liberty                 39    
+11/17/2009 Northeastern            53 Siena                   59    
+11/17/2009 Arkansas Little Rock    45 Tulsa                   59    
+11/17/2009 Temple                  45 Georgetown              46    
+11/17/2009 Binghamton              46 Pittsburgh              71    
+11/17/2009 NC Greensboro           46 Virginia Tech           59    
+11/17/2009 Lees McRae              44 Appalachian St.         77    
+11/17/2009 Lynchburg               70 Radford                 94    
+11/17/2009 Longwood                59 Old Dominion            98    
+11/17/2009 NC Asheville            49 Tennessee              124    
+11/17/2009 Edward Waters           55 Bethune Cookman         74    
+11/17/2009 North Carolina A&T      82 Ohio                    93    
+11/17/2009 St. Francis NY          44 Boston College          72    
+11/17/2009 Iona                    68 Hampton                 63    
+11/17/2009 George Washington       69 Boston University       59    
+11/17/2009 Middle Tennessee        60 Marshall                63    
+11/17/2009 Presbyterian            64 Furman                  68    
+11/17/2009 Winthrop                57 College of Charleston   69    
+11/17/2009 Holy Cross              67 Saint Joseph's          69    
+11/17/2009 East Tennessee St.      76 Chattanooga             85    
+11/17/2009 Long Island             56 Army                    63    
+11/17/2009 Howard                  59 Central Florida         68    
+11/17/2009 East Carolina           68 Campbell                74    
+11/17/2009 Madonna                 57 IUPU Fort Wayne         86    
+11/17/2009 St. John's              69 St. Bonaventure         68    
+11/17/2009 Wofford                 60 Georgia                 57    
+11/17/2009 Charleston Southern     61 The Citadel             60    
+11/17/2009 Bowling Green           57 Xavier                 101    
+11/17/2009 Arkansas                66 Louisville              96 N   St. Louis, MO
+11/17/2009 Loyola LA               62 Southern Mississippi    73    
+11/17/2009 Louisiana Monroe        61 Oklahoma                72    
+11/17/2009 Nicholls St.            60 Houston                 92    
+11/17/2009 Canisius                69 Loyola Chicago          89    
+11/17/2009 Maryland Eastern Shore  60 Marquette               86    
+11/17/2009 Tennessee Martin        68 Missouri                83    
+11/17/2009 Gonzaga                 71 Michigan St.            75    
+11/17/2009 Fairfield               42 Maryland                71    
+11/17/2009 Northern Illinois       61 Illinois                80    
+11/17/2009 Indianapolis            69 Southern Illinois       84    
+11/17/2009 Lincoln MO              52 Missouri Kansas City    78    
+11/17/2009 Florida A&M             53 Creighton               78    
+11/17/2009 Iowa St.                90 Drake                   70    
+11/17/2009 Jackson St.             69 Alabama                 86    
+11/17/2009 Centenary               71 Grambling               66    
+11/17/2009 Fresno St.              65 Northern Arizona        59    
+11/17/2009 UAB                     87 Jacksonville St.        62    
+11/17/2009 New Mexico              97 New Mexico St.          87    
+11/17/2009 Columbia                53 DePaul                  59    
+11/17/2009 Colorado Christian      58 Montana St.             68    
+11/17/2009 Duquesne                52 Iowa                    50    
+11/17/2009 Idaho St.               53 Brigham Young           87    
+11/17/2009 Long Beach St.          67 Pepperdine              58    
+11/17/2009 Utah Valley             51 Cal St. Bakersfield     58    
+11/17/2009 Seattle                 81 Portland                98    
+11/17/2009 Weber St.               57 UC Santa Barbara        66    
+11/17/2009 Whitman                 88 Eastern Washington     100    
+11/17/2009 UC Riverside            67 Southern California     77    
+11/17/2009 Colgate                 55 Yale                    65 N   Storrs, CT
+11/17/2009 Indiana St.             76 Wisconsin Milwaukee     63 N   Baton Rouge, LA
+11/17/2009 Charlotte               59 Duke                   101
+11/17/2009 Hofstra                 67 Connecticut             76
+11/17/2009 Carver Bible            53 Georgia St.             77
+11/17/2009 Florida Memorial        82 Florida International   88
+11/17/2009 Western Kentucky        60 Louisiana St.           71
+11/17/2009 Coastal Carolina        69 Elon                    46 N   Durham, NC
+11/17/2009 Texas St.               82 Cal St. Northridge      85 N   Tempe, AZ
+11/17/2009 Memphis                 55 Kansas                  57 N   St. Louis, MO
+11/17/2009 Texas Christian         49 Arizona St.             52
+11/18/2009 Trinity Int'l IL        84 Chicago St.            102    
+11/18/2009 Georgia Southern        49 Florida                 69    
+11/18/2009 Manhattan               54 Princeton               61    
+11/18/2009 Savannah St.            46 North Florida           57    
+11/18/2009 Fisk                    45 Mercer                 110    
+11/18/2009 West Virginia Wesleyan  92 Virginia Military Inst 111    
+11/18/2009 Bucknell                82 Delaware                66    
+11/18/2009 Marist                  38 Hartford                75    
+11/18/2009 Illinois Chicago        48 Central Michigan        67    
+11/18/2009 Sacred Heart            66 Fordham                 76    
+11/18/2009 Stetson                 38 Florida St.             80    
+11/18/2009 Virginia Commonwealth   67 Western Michigan        83    
+11/18/2009 Mount St. Mary's        73 American                62    
+11/18/2009 Maine                   59 Delaware St.            56    
+11/18/2009 Quinnipiac              71 Lehigh                  79    
+11/18/2009 Loyola MD               69 MD Baltimore County     66    
+11/18/2009 Cornell                 74 Massachusetts           61    
+11/18/2009 Toledo                  68 Cincinnati              92    
+11/18/2009 Rhode Island            78 Brown                   57    
+11/18/2009 Kent St.                70 Youngstown St.          61    
+11/18/2009 Nebraska                55 St. Louis               69    
+11/18/2009 Northern Michigan       64 Wisconsin Green Bay     70    
+11/18/2009 High Point              60 Wake Forest             83    
+11/18/2009 Arkansas St.            73 Southeast Missouri St.  49    
+11/18/2009 North Texas            101 Texas Arlington         99 2  
+11/18/2009 Oakland                 42 Wisconsin               58    
+11/18/2009 IUPUI                   69 Eastern Illinois        66    
+11/18/2009 Utah St.                67 Utah                    68    
+11/18/2009 Butler                  67 Northwestern            54    
+11/18/2009 East Central            80 Texas San Antonio      103    
+11/18/2009 Minot St.               82 North Dakota St.       110    
+11/18/2009 NC Wesleyan             70 North Carolina Central  85    
+11/18/2009 SIU Edwardsville        46 Evansville              76    
+11/18/2009 Arkansas Monticello     50 Wichita St.             79    
+11/18/2009 Southern                61 Oklahoma St.            93    
+11/18/2009 Western Carolina        41 Texas                   73    
+11/18/2009 Texas Southern          77 Colorado                88    
+11/18/2009 Peru St.                73 Wyoming                120    
+11/18/2009 Arkansas Pine Bluff     52 Texas El Paso           70    
+11/18/2009 Oral Roberts            83 Stanford                81    
+11/18/2009 Bethany CA              75 Sacramento St.          90    
+11/18/2009 Nevada                  75 Nevada Las Vegas        88    
+11/18/2009 UC Santa Cruz           59 UC Davis                88    
+11/18/2009 UC Irvine               84 Loyola Marymount        78    
+11/18/2009 St. Gregory             56 Arkansas Little Rock   100
+11/18/2009 Truman St.              59 Western Illinois        71
+11/18/2009 Point Loma              65 San Diego               84
+11/19/2009 Dayton                  63 Georgia Tech            59 N   San Juan, PR
+11/19/2009 Tulane                  54 Miami FL                74 N   Charleston, SC
+11/19/2009 George Mason            68 Villanova               69 N   San Juan, PR
+11/19/2009 NC Wilmington           80 Penn St.                69 N   Charleston, SC
+11/19/2009 Indiana                 71 Mississippi             89 N   San Juan, PR
+11/19/2009 Lafayette               88 St. Francis PA          77    
+11/19/2009 Old Dominion            73 Liberty                 41    
+11/19/2009 Sam Houston St.         92 Kentucky               102    
+11/19/2009 Eastern Kentucky        60 Pittsburgh              71    
+11/19/2009 Florida A&M             64 Cleveland St.           78    
+11/19/2009 Lees McRae              39 Wofford                 81    
+11/19/2009 Buffalo                 63 Navy                    53    
+11/19/2009 Rider                   46 Virginia                79    
+11/19/2009 Richmond                71 William & Mary          78    
+11/19/2009 East Tennessee St.      61 Morgan St.              72    
+11/19/2009 South Florida           65 Davidson                58 N   Charleston, SC
+11/19/2009 Allen                   81 South Carolina St.      88    
+11/19/2009 Long Beach St.          62 Notre Dame              82    
+11/19/2009 Boston University       70 Kansas St.              80 N   San Juan, PR
+11/19/2009 Columbia Union          61 Coppin St.              72    
+11/19/2009 Utah Valley             51 Minnesota               76    
+11/19/2009 Lamar                   66 Middle Tennessee        74    
+11/19/2009 Texas College           76 Centenary               95    
+11/19/2009 Florida Gulf Coast      54 Prairie View A&M        69    
+11/19/2009 Northwestern St.        75 Texas Tech              94    
+11/19/2009 Tennessee Tech          92 Lipscomb                89    
+11/19/2009 Champion Baptist        56 Mississippi Valley St. 102    
+11/19/2009 Texas Pan American      55 Texas A&M Corpus Chris  77    
+11/19/2009 Southeastern Louisiana  67 Mississippi St.         82    
+11/19/2009 Central Arkansas        44 Kansas                  94    
+11/19/2009 Southern New Orleans    65 New Orleans             74    
+11/19/2009 Spring Hill             53 South Alabama           82    
+11/19/2009 Indiana South Bend      56 Valparaiso              78    
+11/19/2009 Paul Quinn              61 Grambling               75    
+11/19/2009 Montana                 49 Denver                  56    
+11/19/2009 North Carolina          77 Ohio St.                73 N   New York, NY
+11/19/2009 Southwest               51 Southern Utah          111    
+11/19/2009 La Salle                68 South Carolina          78 n   Charleston, SC
+11/19/2009 Santa Clara             53 San Diego St.           86    
+11/19/2009 IUPU Fort Wayne         70 Washington St.          89    
+11/19/2009 La Verne                71 UC Riverside            87    
+11/19/2009 Fresno St.              84 Seattle                 85    
+11/19/2009 Rice                    49 Arizona                 66    
+11/19/2009 California              73 Syracuse                95 n   New York, NY
+11/20/2009 Dickinson St.           77 Air Force               95    
+11/20/2009 Providence              75 Alabama                 84    
+11/20/2009 Alcorn St.              55 Albany                  71    
+11/20/2009 San Francisco           65 Arizona St.            104    
+11/20/2009 Appalachian St.         72 Arkansas                81 1  
+11/20/2009 Saint Joseph's          84 Boston College          80 N   St. Thomas, VI
+11/20/2009 Longwood                61 Columbia                72    
+11/20/2009 Seton Hall              89 Cornell                 79    
+11/20/2009 Robert Morris           59 Detroit                 71 N   Albany, NY
+11/20/2009 The Citadel             63 Eastern Michigan        56 N   Springfield, MO
+11/20/2009 North Carolina Central  73 Florida International   83    
+11/20/2009 Troy                    58 Florida                 80    
+11/20/2009 Drake                   65 Georgia St.             58 N   Daytona Beach, FL
+11/20/2009 IUPU Fort Wayne         55 Gonzaga                 90    
+11/20/2009 Bryant                  51 Harvard                 77    
+11/20/2009 Brigham Young           83 Hawaii                  65    
+11/20/2009 Farmingdale St.         48 Hofstra                 87    
+11/20/2009 Loyola Chicago          76 Holy Cross              73    
+11/20/2009 Colorado St.            60 Indiana St.             65    
+11/20/2009 Bowling Green           46 Iowa                    68    
+11/20/2009 Austin Peay             63 IUPUI                   77 N   Daytona Beach, FL
+11/20/2009 Miami OH                62 Louisiana Tech          74 N   Albuquerque, NM
+11/20/2009 New Hampshire           55 Maryland                82    
+11/20/2009 Tennessee Tech          59 Memphis                 92    
+11/20/2009 Houston Baptist         55 Michigan                77    
+11/20/2009 Toledo                  62 Michigan St.            75    
+11/20/2009 Maryland Eastern Shore  53 Missouri St.            70    
+11/20/2009 James Madison           43 Murray St.              71 N   Miami, FL
+11/20/2009 Nicholls St.            59 New Mexico              83    
+11/20/2009 Howard                  77 Niagara                 82 N   Daytona Beach, FL
+11/20/2009 Davis and Elkins        53 North Carolina A&T      67    
+11/20/2009 Clemson                 89 NC Greensboro           67    
+11/20/2009 Akron                   45 North Carolina St.      66 N   Daytona Beach, FL
+11/20/2009 Texas Southern          62 Northern Colorado       66 N   Colorado Springs, CO
+11/20/2009 Tennessee St.           57 Northern Illinois       85    
+11/20/2009 DePaul                  60 Northern Iowa           52 N   St. Thomas, VI
+11/20/2009 Cal St. San Bernardino  70 Pepperdine              72    
+11/20/2009 South Dakota St.        63 Purdue                  74 N   St. Thomas, VI
+11/20/2009 Drexel                  56 Rutgers                 58    
+11/20/2009 Vanderbilt              72 St. Mary's              70    
+11/20/2009 Mayville St.            67 South Dakota            99    
+11/20/2009 Binghamton              40 St. Bonaventure         66    
+11/20/2009 Brown                   76 St. John's              79    
+11/20/2009 East Carolina           66 Tennessee              105 N   St. Thomas, VI
+11/20/2009 Harris Stowe            67 Tennessee Martin        79    
+11/20/2009 Samford                 49 Texas A&M               68    
+11/20/2009 Auburn                  74 Central Florida         84 n   Daytona Beach, FL
+11/20/2009 Cal St. Bakersfield     64 UCLA                    75    
+11/20/2009 San Jose St.            70 Washington              80    
+11/20/2009 Atlanta Christian       57 Winston Salem St.       94    
+11/20/2009 Ohio St.                76 California              70 N   New York, NY
+11/20/2009 La Salle                84 Davidson                70 N   Charleston, SC
+11/20/2009 FDU Florham             68 Elon                   102
+11/20/2009 George Mason            62 Georgia Tech            70 N   San Juan, PR
+11/20/2009 Boston University       71 Indiana                 67 N   San Juan, PR
+11/20/2009 NC Wilmington           60 Miami FL                67 N   Charleston, SC
+11/20/2009 Kansas St.              74 Mississippi             86 N   San Juan, PR
+11/20/2009 South Florida           66 South Carolina          69 n   Charleston, SC
+11/20/2009 North Carolina          71 Syracuse                87 N   New York, NY
+11/20/2009 Penn St.                60 Tulane                  63 N   Charleston, SC
+11/20/2009 Dayton                  65 Villanova               71 N   San Juan, PR
+11/21/2009 Utah St.                61 Northeastern            64    
+11/21/2009 Florida Atlantic        81 American                69    
+11/21/2009 Rider                   63 Kentucky                92    
+11/21/2009 Georgetown              63 Savannah St.            44    
+11/21/2009 Buffalo                 78 Towson                  69 1  
+11/21/2009 Long Beach St.          81 Wisconsin Green Bay     69    
+11/21/2009 Norfolk St.             68 Iona                    80    
+11/21/2009 Youngstown St.          68 St. Peter's             56    
+11/21/2009 Texas Christian         77 Nebraska                90    
+11/21/2009 Army                    56 Princeton               52    
+11/21/2009 Missouri Kansas City    70 North Dakota            63    
+11/21/2009 Canisius                79 St. Francis NY          69    
+11/21/2009 Loyola MD               44 Mount St. Mary's        63    
+11/21/2009 Oral Roberts            55 Virginia                76    
+11/21/2009 MD Baltimore County     51 George Washington       94    
+11/21/2009 William & Mary          75 Manhattan               70    
+11/21/2009 SIU Edwardsville        47 Ball St.                57    
+11/21/2009 Fordham                 62 Hartford                70    
+11/21/2009 Voorhees                56 Coastal Carolina        99    
+11/21/2009 North Texas             68 Oklahoma St.            82    
+11/21/2009 Radford                 67 Duke                   104    
+11/21/2009 Texas St.               55 New Orleans             67    
+11/21/2009 Sacramento St.          65 Oregon St.              63    
+11/21/2009 Colorado Christian      60 Idaho St.               77    
+11/21/2009 Niagara                 63 Central Florida         46 n   Daytona Beach, FL
+11/21/2009 South Alabama           62 Tulsa                   84    
+11/21/2009 St. Xavier IL           66 Chicago St.             82    
+11/21/2009 Panhandle St.           73 New Mexico St.          83    
+11/21/2009 East Tennessee St.      56 Louisville              69    
+11/21/2009 Lafayette               69 NJ Inst of Technology   52    
+11/21/2009 Louisiana College       36 McNeese St.             73    
+11/21/2009 South Carolina Upstate  46 Winthrop                49    
+11/21/2009 Florida A&M             69 Stanford                99    
+11/21/2009 Florida St.             89 Mercer                  50    
+11/21/2009 Campbell                85 NC Asheville            66    
+11/21/2009 Robert Morris          107 Alcorn St.              76    
+11/21/2009 Idaho                   81 North Dakota St.        69    
+11/21/2009 Georgia Southern        67 Jacksonville St.        89    
+11/21/2009 North Florida           55 Illinois St.            71    
+11/21/2009 Maryland Eastern Shore  51 Eastern Michigan        76 N   Springfield, MO
+11/21/2009 Rochester MI            63 Oakland                 97    
+11/21/2009 IUPUI                   65 Auburn                  80 N   Daytona Beach, FL
+11/21/2009 Detroit                 66 Albany                  54    
+11/21/2009 Siena                   69 Temple                  73    
+11/21/2009 Arkansas Fort Smith     68 Massachusetts           94    
+11/21/2009 Eureka                  64 Eastern Illinois        93    
+11/21/2009 Hampden Sydney          74 High Point             100    
+11/21/2009 Methodist               58 Gardner Webb            83    
+11/21/2009 Delaware                97 Pennsylvania            94 2  
+11/21/2009 Sam Houston St.         65 Cleveland St.           80    
+11/21/2009 Bethune Cookman         51 Mississippi St.         67    
+11/21/2009 Stony Brook             72 Wagner                  48    
+11/21/2009 Marshall                62 Old Dominion            70    
+11/21/2009 Central Michigan        53 Fairleigh Dickinson     62    
+11/21/2009 Navy                    72 Long Island             83    
+11/21/2009 Quinnipiac              71 Yale                    64    
+11/21/2009 St. Francis PA          58 Bucknell                70    
+11/21/2009 Sacred Heart            65 Xavier                 105    
+11/21/2009 Louisiana Monroe        74 Morehead St.            73    
+11/21/2009 Oklahoma                69 Virginia Commonwealth   82    
+11/21/2009 Dartmouth               60 Furman                  83    
+11/21/2009 Presbyterian            48 Illinois                94    
+11/21/2009 Jackson St.             61 Stephen F. Austin       62    
+11/21/2009 Lamar                   54 Texas Tech              77    
+11/21/2009 Nicholls St.            58 Miami OH                69 N   Albuquerque, NM
+11/21/2009 Georgia                 56 UAB                     72    
+11/21/2009 Loyola Marymount        67 Southern California     59    
+11/21/2009 Florida Gulf Coast      62 Southern Methodist      79    
+11/21/2009 St. Edwards             66 Texas A&M Corpus Chris  75    
+11/21/2009 Western Illinois        56 Central Arkansas        46    
+11/21/2009 Eastern Washington      72 Texas Arlington         68    
+11/21/2009 Butler                  64 Evansville              60    
+11/21/2009 Alabama St.             42 Belmont                 78    
+11/21/2009 Austin Peay             59 North Carolina St.      66 N   Daytona Beach, FL
+11/21/2009 Grambling               41 Marquette               87    
+11/21/2009 Stetson                 64 Charleston Southern     80    
+11/21/2009 Martin Methodist        55 Alabama A&M             76    
+11/21/2009 Southern                48 Utah                    88    
+11/21/2009 Southern Mississippi    66 Montana St.             62    
+11/21/2009 Boise St.               61 Wyoming                 87    
+11/21/2009 Wayland Baptist         61 Southern Utah           79    
+11/21/2009 Arkansas St.            56 Texas El Paso           82    
+11/21/2009 The Citadel             55 Missouri St.            72    
+11/21/2009 Oregon                  81 Portland                88    
+11/21/2009 Southern Illinois       69 Nevada Las Vegas        78    
+11/21/2009 Cal Poly                83 Portland St.            92    
+11/21/2009 Louisiana Tech          52 New Mexico              81    
+11/21/2009 Houston                 99 Nevada                 112    
+11/21/2009 Howard                  33 Georgia St.             57 N   Daytona Beach, FL
+11/21/2009 Akron                   63 Drake                   59 N   Daytona Beach, FL
+11/21/2009 Hillsdale               54 Wisconsin Milwaukee     62
+11/21/2009 East Carolina           68 Northern Iowa           74 N   St. Thomas, VI
+11/21/2009 Dickinson St.           65 Texas Southern          77 N   Colorado Springs, CO
+11/21/2009 South Dakota St.        58 Boston College          75 N   St. Thomas, VI
+11/21/2009 Northern Colorado       70 Air Force               46
+11/22/2009 Howard                  52 Akron                   69 N   Daytona Beach, FL
+11/22/2009 Valparaiso              60 Michigan St.            90    
+11/22/2009 Holy Cross              75 Rhode Island            92    
+11/22/2009 Morgan St.              81 Louisville              90    
+11/22/2009 Kennesaw St.            66 St. Louis               76    
+11/22/2009 Texas Pan American      44 Missouri               100    
+11/22/2009 Tennessee St.           62 Northwestern            69    
+11/22/2009 Mississippi Valley St.  55 Iowa St.                96    
+11/22/2009 Maine                   62 Brown                   75    
+11/22/2009 Alcorn St.              59 Detroit                 79 N   Albany, NY
+11/22/2009 Arkansas Little Rock    65 Creighton               80    
+11/22/2009 Drake                   50 Central Florida         59 n   Daytona Beach, FL
+11/22/2009 Vermont                 77 Rutgers                 71    
+11/22/2009 Southeast Missouri St.  70 Northern Illinois       64 1  
+11/22/2009 San Jose St.            66 UC Riverside            70    
+11/22/2009 Chattanooga             49 Richmond                75    
+11/22/2009 Robert Morris           66 Albany                  71    
+11/22/2009 Weber St.               87 Seattle                 91    
+11/22/2009 Hardin Simmons          45 Baylor                 106    
+11/22/2009 Murray St.              84 North Carolina Central  61 N   Miami, FL
+11/22/2009 James Madison           81 Florida International   68    
+11/22/2009 The Citadel             88 Maryland Eastern Shore  62 N   Springfield, MO
+11/22/2009 Liberty                 72 Notre Dame              91    
+11/22/2009 Rochester MI            44 Kent St.                63    
+11/22/2009 Wofford                 54 Bradley                 56    
+11/22/2009 Santa Clara             57 Pacific                 84    
+11/22/2009 Miami OH                60 New Mexico              85    
+11/22/2009 North Carolina St.      60 Auburn                  58 N   Daytona Beach, FL
+11/22/2009 Eastern Michigan        61 Missouri St.            75    
+11/22/2009 Davidson                57 Penn St.                59 N   Charleston, SC
+11/22/2009 Indiana                 66 George Mason            69 N   San Juan, PR
+11/22/2009 La Salle                61 Tulane                  59 N   Charleston, SC
+11/22/2009 Boston University       67 Georgia Tech            85 N   San Juan, PR
+11/22/2009 Georgia St.             56 IUPUI                   67 1N  Daytona Beach, FL
+11/22/2009 South Florida           74 NC Wilmington           66 N   Charleston, SC
+11/22/2009 Louisiana Tech          77 Nicholls St.            45 N   Albuquerque, NM
+11/22/2009 Kansas St.              83 Dayton                  75 N   San Juan, PR
+11/22/2009 Miami FL                85 South Carolina          70 n   Charleston, SC
+11/22/2009 Niagara                 67 Austin Peay             69 N   Daytona Beach, FL
+11/22/2009 Tennessee               57 DePaul                  53 N   St. Thomas, VI 
+11/22/2009 Mississippi             67 Villanova               79 N   San Juan, PR
+11/22/2009 Purdue                  85 Saint Joseph's          60 N   St. Thomas, VI
+11/23/2009 Colorado                72 Gonzaga                 76 N   Lahaina, HI
+11/23/2009 North Carolina Central  66 James Madison           79 N   Miami, FL
+11/23/2009 Binghamton              52 Duquesne                70 N   Cullowhee, NC
+11/23/2009 Cincinnati              67 Vanderbilt              58 N   Maui, HI
+11/23/2009 Fairleigh Dickinson     39 Eastern Kentucky        68    
+11/23/2009 Virginia Commonwealth   63 Hampton                 52    
+11/23/2009 Harvard                 53 Army                    56    
+11/23/2009 Florida Atlantic        66 Manhattan               73    
+11/23/2009 Lamar                   46 Ohio                    71    
+11/23/2009 Appalachian St.         53 Louisville              80    
+11/23/2009 Middle Tennessee        56 North Carolina A&T      65    
+11/23/2009 Virginia Tech           71 Campbell                60    
+11/23/2009 Murray St.              84 Florida International   71    
+11/23/2009 Monmouth                74 Lehigh                  86    
+11/23/2009 Trinity FL              50 Charleston Southern     99    
+11/23/2009 Fairfield               72 American                56    
+11/23/2009 Gardner Webb            72 North Carolina          93    
+11/23/2009 Wichita St.             55 Pittsburgh              68 N   Kansas City, MO
+11/23/2009 Arkansas Monticello     44 Western Carolina        70    
+11/23/2009 Southern Wesleyan       69 South Carolina St.      75    
+11/23/2009 Winthrop                66 Clemson                102    
+11/23/2009 Western Michigan        58 Loyola Chicago          60    
+11/23/2009 Huston Tillotson        65 Southern Methodist      69    
+11/23/2009 McNeese St.             52 Samford                 68    
+11/23/2009 Illinois St.            69 Illinois Chicago        65    
+11/23/2009 Oakland                 77 Tennessee Tech          56    
+11/23/2009 UC Irvine               56 Texas San Antonio       66 N   Richmond, KY
+11/23/2009 Stillman                77 Alabama A&M             75    
+11/23/2009 Iowa                    60 Texas                   85 N   Kansas City, MO
+11/23/2009 Maryland                79 Chaminade               51 n   Lahaina, HI
+11/23/2009 Montana                 68 Oregon                  55    
+11/23/2009 San Diego St.           62 Fresno St.              58    
+11/23/2009 San Francisco           65 UC Santa Barbara        76    
+11/23/2009 Cal Poly                67 St. Mary's              92    
+11/23/2009 Pepperdine              52 UCLA                    71    
+11/23/2009 Arizona                 61 Wisconsin               65 N   Maui, HI
+11/23/2009 South Dakota St.        73 East Carolina           82 N   St. Thomas, VI
+11/23/2009 Boston College          69 Northern Iowa           81 N   St. Thomas, VI
+11/23/2009 Charlotte               88 Yale                    74 N   Hempstead, NY
+11/23/2009 Coastal Carolina        77 Indiana St.             62 N   Bowling Green, KY
+11/23/2009 Saint Joseph's          51 DePaul                  58 N   St. Thomas, VI
+11/23/2009 Texas St.               77 Wisconsin Milwaukee     96 N   Fort Worth, TX
+11/23/2009 Elon                    46 Hofstra                 70
+11/23/2009 Cal St. Northridge      67 Western Kentucky        68
+11/23/2009 Purdue                  73 Tennessee               72 N   St. Thomas, VI
+11/23/2009 Colgate                 63 Texas Christian         76
+11/24/2009 Cleveland St.           49 Kentucky                73 N   Cancun, MX
+11/24/2009 UC Irvine               57 Eastern Kentucky        67    
+11/24/2009 Liberty                 53 Northwestern            69    
+11/24/2009 NC Asheville            58 Georgia                 79    
+11/24/2009 Canisius                73 Buffalo                 71    
+11/24/2009 Quinnipiac              59 Maine                   46    
+11/24/2009 Florida St.             52 Florida                 68    
+11/24/2009 The Citadel             50 West Virginia           69    
+11/24/2009 Western Illinois        48 Savannah St.            52    
+11/24/2009 Vermont                 64 Providence             106    
+11/24/2009 Central Michigan        53 Wright St.              69    
+11/24/2009 St. Francis NY          65 Massachusetts           83    
+11/24/2009 Delaware                56 Siena                   90    
+11/24/2009 Loyola MD               58 Dartmouth               41    
+11/24/2009 Towson                  70 Navy                    87    
+11/24/2009 Drexel                  58 Pennsylvania            49    
+11/24/2009 Lipscomb                64 Ohio St.                84    
+11/24/2009 Longwood                52 Richmond                65    
+11/24/2009 Cornell                 73 Syracuse                88    
+11/24/2009 Virginia Military Inst  95 NC Wilmington          115    
+11/24/2009 Princeton               50 George Washington       65    
+11/24/2009 Wagner                  51 NJ Inst of Technology   56    
+11/24/2009 NC Greensboro           76 South Carolina Upstate  70    
+11/24/2009 Geneva                  47 Youngstown St.          88    
+11/24/2009 Binghamton              44 Western Carolina        73    
+11/24/2009 Ball St.                46 Temple                  66    
+11/24/2009 Mary Washington         43 Delaware St.            59    
+11/24/2009 Stony Brook             58 Rhode Island            75    
+11/24/2009 St. Peter's             71 Long Island             77    
+11/24/2009 Coppin St.              77 MD Baltimore County     66    
+11/24/2009 Winston Salem St.       52 Wake Forest             76    
+11/24/2009 Kennesaw St.            62 Notre Dame              80    
+11/24/2009 William Carey           57 Southern Mississippi    74    
+11/24/2009 Troy                    59 UAB                     77    
+11/24/2009 Texas Permian Basin     47 Texas Arlington         70    
+11/24/2009 Central Arkansas        49 Memphis                 81    
+11/24/2009 Texas Pan American      50 Mississippi St.         75    
+11/24/2009 Eastern Illinois        82 Chicago St.             68    
+11/24/2009 Furman                  65 Rice                    77    
+11/24/2009 Tennessee St.           53 Iowa St.                84    
+11/24/2009 Missouri Kansas City    48 Nebraska                70    
+11/24/2009 Loyola Marymount        65 Tulsa                   79    
+11/24/2009 Jacksonville St.        73 Southeastern Louisiana  77    
+11/24/2009 Texas Tech              63 Stephen F. Austin       61    
+11/24/2009 Columbus St.            58 Alabama St.             64    
+11/24/2009 Chattanooga             56 Missouri                99    
+11/24/2009 Bucknell                59 Columbia                73    
+11/24/2009 Morgan St.              97 Arkansas                94    
+11/24/2009 South Dakota            68 Marquette               93    
+11/24/2009 Waldorf                 55 North Dakota            79    
+11/24/2009 Eastern Michigan        86 Southeast Missouri St.  76    
+11/24/2009 Jackson St.             58 North Texas             68    
+11/24/2009 Mississippi Valley St.  39 St. Louis               75    
+11/24/2009 Mobile                  68 Louisiana Lafayette     64    
+11/24/2009 Presbyterian            58 Bradley                 71    
+11/24/2009 Prairie View A&M        58 Oklahoma St.            80    
+11/24/2009 Grambling               66 Louisiana Monroe        76    
+11/24/2009 Hartford                82 Lafayette               86    
+11/24/2009 Houston Baptist         61 Northwestern St.        92    
+11/24/2009 Southern                51 Brigham Young          107    
+11/24/2009 Western St.             62 Weber St.               89    
+11/24/2009 Mayville St.            42 Colorado St.            79    
+11/24/2009 Seattle                 77 Utah                    74    
+11/24/2009 Idaho St.               44 Utah St.                77    
+11/24/2009 Wofford                 64 Illinois                78    
+11/24/2009 North Dakota St.        63 UC Davis                62    
+11/24/2009 Boise St.               82 Eastern Washington      69    
+11/24/2009 Sacramento St.          61 Idaho                   75    
+11/24/2009 New Mexico St.          73 Cal St. Fullerton       84    
+11/24/2009 Jacksonville            47 California              79    
+11/24/2009 Rider                   88 Florida A&M             73 N   Cancun, MX
+11/24/2009 Vanderbilt              68 Chaminade               41 n   Lahaina, HI
+11/24/2009 Oral Roberts            65 Sam Houston St.         71 N   Cancun, MX
+11/24/2009 Arizona                 91 Colorado                87 1N  Lahaina, HI
+11/24/2009 Elon                    65 Yale                    69 N   Hempstead, NY
+11/24/2009 Duquesne                75 Arkansas Monticello     72 1N  Cullowhee, NC
+11/24/2009 Coastal Carolina        69 Cal St. Northridge      76 N   Bowling Green, KY
+11/24/2009 Colgate                 60 Wisconsin Milwaukee     69 N   Fort Worth, TX
+11/24/2009 Fairleigh Dickinson     61 Texas San Antonio       75 N   Richmond, KY
+11/24/2009 Maryland                57 Cincinnati              69 N   Lahaina, HI
+11/24/2009 Charlotte               80 Hofstra                 72
+11/24/2009 Virginia                52 Stanford                57 N   Cancun, MX
+11/24/2009 Wichita St.             74 Iowa                    57 N   Kansas City, MO
+11/24/2009 Indiana St.             64 Western Kentucky        63
+11/24/2009 Texas St.               99 Texas Christian        108 3
+11/24/2009 Wisconsin               61 Gonzaga                 74 N   Lahaina, HI  
+11/24/2009 Pittsburgh              62 Texas                   78 N   Kansas City, MO
+11/25/2009 Northeastern            64 Boston University       69 1  
+11/25/2009 Brown                   70 Bryant                  68    
+11/25/2009 Palm Beach Atlantic     67 Stetson                 85    
+11/25/2009 Arkansas Monticello     56 Binghamton              66 N   Cullowhee, NC
+11/25/2009 Texas San Antonio       72 Eastern Kentucky        74    
+11/25/2009 Sacred Heart            75 Penn St.                87    
+11/25/2009 Georgia St.             59 Utah Valley             52 N   Mobile, AL
+11/25/2009 College of Charleston   71 East Tennessee St.      77    
+11/25/2009 Kent St.                54 South Florida           76    
+11/25/2009 Hampton                 61 William & Mary          62    
+11/25/2009 Lehigh                  76 St. Francis PA          67    
+11/25/2009 Niagara                 74 Mount St. Mary's        64    
+11/25/2009 Lamar                   74 Marshall                87    
+11/25/2009 High Point              54 Auburn                  75    
+11/25/2009 Indiana East            67 IUPUI                   98    
+11/25/2009 New Hampshire           60 Harvard                 78    
+11/25/2009 Fairfield               81 Howard                  60    
+11/25/2009 Fredonia St.            37 Davidson                78    
+11/25/2009 Duquesne                77 Western Carolina        83    
+11/25/2009 Manhattan               69 American                62    
+11/25/2009 Florida Gulf Coast      58 Miami FL                77    
+11/25/2009 Fairleigh Dickinson     54 UC Irvine               75 N   Richmond, KY
+11/25/2009 Oakland                 59 Kansas                  89    
+11/25/2009 Mobile                  51 New Orleans             65    
+11/25/2009 Arkansas Little Rock    66 Louisiana Tech          86    
+11/25/2009 Texas A&M Int'l         52 Texas A&M Corpus Chris  55    
+11/25/2009 Tennessee Martin        66 Arkansas St.            80    
+11/25/2009 Alcorn St.              67 South Alabama           83    
+11/25/2009 Tennessee Tech          72 Southern Utah           65    
+11/25/2009 Wyoming                 77 Denver                  80    
+11/25/2009 North Carolina A&T      66 Texas El Paso           81    
+11/25/2009 San Diego St.           63 Pacific                 71    
+11/25/2009 Montana St.             70 San Francisco           66    
+11/25/2009 Holy Cross              59 Nevada Las Vegas        80    
+11/25/2009 Northern Arizona        88 Santa Clara             72    
+11/25/2009 Cal Maritime            59 St. Mary's             100    
+11/25/2009 Washington St.          87 Alaska Anchorage        68    
+11/25/2009 San Diego               76 Oklahoma                64 N   Anchorage, AK
+11/25/2009 Oral Roberts            72 Florida A&M             51 N   Cancun, MX
+11/25/2009 Colorado                73 Chaminade               58 n   Lahaina, HI
+11/25/2009 Sam Houston St.         80 Rider                   68 N   Cancun, MX
+11/25/2009 Wisconsin               78 Maryland                69 N   Lahaina, HI
+11/25/2009 Louisiana St.           55 Connecticut             81 N   New York, NY
+11/25/2009 Virginia                76 Cleveland St.           65 N   Cancun, MX
+11/25/2009 Arizona                 72 Vanderbilt              84 N   Lahaina, HI
+11/25/2009 Jarvis Christian        47 Texas Southern         101
+11/25/2009 Arizona St.             53 Duke                    64 N   New York, NY
+11/25/2009 Stanford                65 Kentucky                73 1N  Cancun, MX
+11/25/2009 Gonzaga                 61 Cincinnati              59 1N  Lahaina, HI
+11/26/2009 Nicholls St.            58 Alaska Anchorage        72    
+11/26/2009 Alabama                 79 Baylor                  76 N   Lake Buena Vista, FL
+11/26/2009 Minnesota               82 Butler                  73 N   Anaheim, CA
+11/26/2009 Texas A&M               69 Clemson                 60 N   Anaheim, CA
+11/26/2009 Oklahoma                93 Houston                100 N   Anchorage, AK
+11/26/2009 Florida St.             54 Iona                    49 N   Lake Buena Vista, FL
+11/26/2009 West Virginia           85 Long Beach St.          62 n   Anaheim, CA
+11/26/2009 Creighton               76 Michigan                83 1N  Lake Buena Vista, FL
+11/26/2009 North Carolina A&T      68 New Mexico St.          84    
+11/26/2009 Portland                74 UCLA                    47 n   Anaheim, CA
+11/26/2009 Marquette               71 Xavier                  61 N   Lake Buena Vista, FL
+11/26/2009 Georgia St.             66 South Alabama           70
+11/26/2009 Alcorn St.              53 Utah Valley             68 N   Mobile, AL
+11/27/2009 Kennesaw St.            67 Tennessee St.           73 N   Chicago, IL
+11/27/2009 Bethune Cookman         66 Longwood                62 N   South Padre Island, TX
+11/27/2009 Northern Colorado       70 North Dakota            63    
+11/27/2009 Southern                66 Wofford                 81 N   Las Vegas, NV
+11/27/2009 Mississippi Valley St.  53 Liberty                 72 N   Chicago, IL
+11/27/2009 Mercer                  74 Georgia Tech            85    
+11/27/2009 Vermont                 61 Drexel                  74    
+11/27/2009 Massachusetts           75 Rutgers                 83 N   Atlantic City, NJ
+11/27/2009 Seattle                 67 Presbyterian            63 N   Las Vegas, NV
+11/27/2009 Siena                   68 St. John's              77 N   Philadelphia, PA
+11/27/2009 St. Louis               54 Iowa St.                65 N   Chicago, IL
+11/27/2009 Furman                  72 NC Asheville            66    
+11/27/2009 Richmond                63 Mississippi St.         62 N   South Padre Island, TX
+11/27/2009 North Florida           58 Campbell                59    
+11/27/2009 Hampton                 66 Pepperdine              75 N   Laramie, WY
+11/27/2009 Jacksonville            93 South Carolina          97    
+11/27/2009 Florida Atlantic        58 South Florida           78    
+11/27/2009 Columbia                60 Syracuse                85    
+11/27/2009 College of Charleston   69 Tennessee               86    
+11/27/2009 Jacksonville St.        64 Georgia                 67    
+11/27/2009 Arkansas Pine Bluff     65 Akron                   68    
+11/27/2009 Norfolk St.             66 Illinois St.            79    
+11/27/2009 Nevada                  76 Virginia Commonwealth   85    
+11/27/2009 Valparaiso              97 Georgia Southern        89    
+11/27/2009 Louisiana Monroe        84 Centenary               94    
+11/27/2009 Tennessee Tech          75 Kansas                 112    
+11/27/2009 Florida                 77 Michigan St.            74 N   Atlantic City, NJ
+11/27/2009 Bradley                 57 Oklahoma St.            68 N   Las Vegas, NV
+11/27/2009 East Tennessee St.      94 Arkansas                85    
+11/27/2009 Old Dominion            61 Missouri                66 N   South Padre Island, TX
+11/27/2009 Wisconsin Green Bay     71 North Dakota St.        62    
+11/27/2009 Virginia Tech           50 Temple                  61     Philadelphia, PA
+11/27/2009 Northwestern            72 Notre Dame              58 N   Chicago, IL
+11/27/2009 Washington St.          78 Nicholls St.            69 N   Anchorage, AK
+11/27/2009 Southeast Missouri St.  44 St. Bonaventure         67 N   Normal, IL
+11/27/2009 Weber St.               70 Brigham Young           87    
+11/27/2009 Monmouth                75 Wyoming                 73    
+11/27/2009 Coppin St.              43 Southern California     74    
+11/27/2009 Utah                    60 Illinois                58 N   Las Vegas, NV
+11/27/2009 San Diego               72 Houston                 65 N   Anchorage, AK
+11/27/2009 New Mexico              83 Hawaii                  71    
+11/27/2009 Marquette               79 Michigan                65 N   Lake Buena Vista, FL
+11/27/2009 Cornell                 78 Toledo                  60 N   Philadelphia, PA
+11/27/2009 Texas A&M               66 West Virginia           73 N   Anaheim, CA
+11/27/2009 Louisiana St.           52 Arizona St.             71 N   New York, NY
+11/27/2009 Xavier                  80 Creighton               67 N   Lake Buena Vista, FL
+11/27/2009 Texas Pan American      61 Chattanooga             50 N   S. Padre Island, TX
+11/27/2009 Brown                   69 Philadelphia Sciences   48 n   Philadelphia, PA
+11/27/2009 Connecticut             59 Duke                    68 N   New York, NY
+11/27/2009 Florida St.             60 Alabama                 51 N   Lake Buena Vista, FL
+11/27/2009 Arkansas Fort Smith     76 Troy                   115 N   Statesboro, GA
+11/27/2009 Clemson                 87 Long Beach St.          79 N   Anaheim, CA
+11/27/2009 Baylor                  72 Iona                    62 1N  Lake Buena Vista, FL
+11/27/2009 Cumberland TN           54 Middle Tennessee        87
+11/27/2009 Portland                61 Minnesota               56 N   Anaheim, CA
+11/27/2009 Butler                  69 UCLA                    67 n   Anaheim, CA
+11/28/2009 Charleston Southern     58 Air Force               68    
+11/28/2009 Morgan St.              92 Appalachian St.         93 1  
+11/28/2009 Cal Poly                62 Arkansas Little Rock    71    
+11/28/2009 Yale                    48 Army                    64    
+11/28/2009 Drake                   78 Austin Peay             72    
+11/28/2009 UC Davis                60 Ball St.                58    
+11/28/2009 North Texas             73 Boise St.               79    
+11/28/2009 Wisconsin Milwaukee     90 Bowling Green           83 1  
+11/28/2009 Howard                  54 Canisius                70    
+11/28/2009 Virginia Wise           37 The Citadel             69    
+11/28/2009 Wichita St.             69 Cleveland St.           54    
+11/28/2009 Allen                   44 Coastal Carolina        97    
+11/28/2009 St. Francis NY          66 Colgate                 65    
+11/28/2009 Vermont                 59 Cornell                 67 N   Philadelphia, PA
+11/28/2009 Hartford                56 Dartmouth               68    
+11/28/2009 Rhode Island            75 Davidson                65    
+11/28/2009 Towson                  69 Dayton                  74    
+11/28/2009 Detroit                 66 DePaul                  68 1  
+11/28/2009 Toledo                  59 Drexel                  69    
+11/28/2009 Belmont                 95 Eastern Illinois        62    
+11/28/2009 Florida International   67 Eastern Kentucky        81    
+11/28/2009 Davenport University    66 Eastern Michigan        76    
+11/28/2009 Western Carolina        75 Gardner Webb            59    
+11/28/2009 Oregon St.              64 George Washington       57    
+11/28/2009 Lafayette               64 Georgetown              97    
+11/28/2009 Arkansas Fort Smith     77 Georgia Southern        86 1  
+11/28/2009 Eastern Washington      54 Idaho                   76    
+11/28/2009 Southeast Missouri St.  53 Illinois St.            93    
+11/28/2009 Northwestern St.        72 Indiana                 90    
+11/28/2009 North Carolina Central  63 Iowa                    73    
+11/28/2009 MD Baltimore County     51 James Madison           53    
+11/28/2009 IUPUI                   57 Kansas St.              70 n   Kansas City, MO
+11/28/2009 North Carolina A&T      73 Lamar                   74    
+11/28/2009 St. Ambrose             42 Loyola Chicago          81    
+11/28/2009 UC Santa Barbara        89 Loyola Marymount        84    
+11/28/2009 Fordham                 44 Manhattan               68    
+11/28/2009 Ohio                    53 Marshall                60 n   Charleston, WV
+11/28/2009 American                58 Maryland Eastern Shore  65    
+11/28/2009 Louisiana Lafayette     58 McNeese St.             60    
+11/28/2009 South Carolina Upstate  41 Miami FL                70    
+11/28/2009 Evansville              58 Miami OH                82    
+11/28/2009 Tulsa                   75 Missouri St.            83    
+11/28/2009 Tenn. Wesleyan          49 Murray St.             108    
+11/28/2009 Mount St. Mary's        65 Navy                    56 1  
+11/28/2009 Marist                  58 New Hampshire           72    
+11/28/2009 East Carolina           82 NC Greensboro           61    
+11/28/2009 Wright St.              67 Northeastern            70    
+11/28/2009 Northern Illinois       45 Northern Iowa           52    
+11/28/2009 Central Arkansas        75 Oakland                 83    
+11/28/2009 St. Francis PA          47 Ohio St.               110    
+11/28/2009 Montana St.             66 Oregon                  89    
+11/28/2009 Monmouth                73 Pepperdine              82 N   Laramie, WY
+11/28/2009 Youngstown St.          56 Pittsburgh              72    
+11/28/2009 Champion Baptist        38 Prairie View A&M       101    
+11/28/2009 Boston College          82 Providence              77    
+11/28/2009 Central Michigan        38 Purdue                  64    
+11/28/2009 Binghamton              50 Rider                   58    
+11/28/2009 UC Riverside            59 Sacramento St.          58    
+11/28/2009 Northern Arizona        48 San Diego St.           89    
+11/28/2009 Pacific                 55 San Jose St.            59    
+11/28/2009 Fresno St.              67 Santa Clara             74    
+11/28/2009 Long Island             66 Seton Hall              95    
+11/28/2009 Brown                   79 Siena                   99 N   Philadelphia, PA
+11/28/2009 Lipscomb                67 SIU Edwardsville        64    
+11/28/2009 Dana                    65 South Dakota           100    
+11/28/2009 Denver                  83 South Dakota St.        80    
+11/28/2009 Millsaps                49 Southeastern Louisiana  81    
+11/28/2009 Illinois Chicago        64 Southern Illinois       74    
+11/28/2009 Spring Hill             57 Southern Mississippi    90    
+11/28/2009 Huston Tillotson        54 Stephen F. Austin       82    
+11/28/2009 NJ Inst of Technology   46 Stony Brook             60    
+11/28/2009 St. John's              55 Temple                  48     Philadelphia, PA
+11/28/2009 Samford                 53 Texas Tech              74    
+11/28/2009 Valparaiso              64 Troy                    80 N   Statesboro, GA
+11/28/2009 George Mason            71 Tulane                  76    
+11/28/2009 Florida A&M             59 UAB                     90    
+11/28/2009 Albany                  72 Central Florida         76    
+11/28/2009 Idaho St.               68 Missouri Kansas City    65    
+11/28/2009 Louisville              71 Nevada Las Vegas        76    
+11/28/2009 Southern Utah           49 Utah St.                89    
+11/28/2009 Northern New Mexico     55 Utah Valley             78    
+11/28/2009 La Salle                63 Villanova               81    
+11/28/2009 Delaware                66 Virginia Tech           74 1N  Philadelphia, PA
+11/28/2009 Bucknell                85 Wagner                  61    
+11/28/2009 William & Mary          78 Wake Forest             68    
+11/28/2009 Holy Cross              54 Western Michigan        64    
+11/28/2009 Hampton                 78 Wyoming                 67    
+11/28/2009 Houston                 73 Alaska Anchorage        57
+11/28/2009 Texas Pan American      64 Bethune Cookman         67 N   South Padre Island, TX
+11/28/2009 Illinois                68 Bradley                 72 N   Las Vegas, NV
+11/28/2009 Savannah St.            44 Central Connecticut     51 N   Charleston, SC
+11/28/2009 Northwestern            67 Iowa St.                65 N   Chicago, IL
+11/28/2009 Mississippi Valley St.  68 Kennesaw St.            85 N   Chicago, IL
+11/28/2009 Chattanooga             74 Longwood                70 N   South Padre Island, TX
+11/28/2009 Michigan St.           106 Massachusetts           68 N   Atlantic City, NJ
+11/28/2009 Old Dominion            55 Mississippi St.         69 N   South Padre Island, TX
+11/28/2009 St. Bonaventure         98 Norfolk St.             71 N   Normal, IL
+11/28/2009 Nicholls St.            60 Oklahoma                81 N   Anchorage, AK
+11/28/2009 Utah                    55 Oklahoma St.            77 N   Las Vegas, NV
+11/28/2009 Missouri                52 Richmond                59 N   South Padre Island, TX
+11/28/2009 Florida                 73 Rutgers                 58 n   Atlantic City, NJ
+11/28/2009 Notre Dame              64 St. Louis               52 N   Chicago, IL
+11/28/2009 Presbyterian            71 Southern                69 N   Las Vegas, NV
+11/28/2009 Louisiana Tech          68 Texas Christian         63
+11/28/2009 Liberty                 63 Tennessee St.           60 N   Chicago, IL
+11/28/2009 Texas Southern          57 Texas San Antonio       79
+11/28/2009 San Diego               56 Washington St.          93 N   Anchorage, AK
+11/28/2009 Greenville              46 Western Illinois        84
+11/28/2009 Seattle                 83 Wofford                 84 N   Las Vegas, NV
